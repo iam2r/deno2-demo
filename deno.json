@@ -1,0 +1,10 @@
+{
+  "name": "@iam2r/deno2-demo",
+  "license": "MIT",
+  "version": "0.1.1",
+  "exports": "./main.ts",
+  "nodeModulesDir": "auto",
+  "imports": {
+    "@types/node": "npm:@types/node@^22.7.6"
+  }
+}
